@@ -7,6 +7,7 @@
 ![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeSix&show_icons=true&theme=radical)
 
 ## Tecnologias Que eu uso no meu dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br/>
     <img aling"center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -15,4 +16,6 @@
 </div><br/>
 
 ### Estudante Segundo Ano do Ensino Médio, Pretendendo cursar Engenharia De Software 
+
+
 

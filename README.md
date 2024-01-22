@@ -15,7 +15,7 @@
     <img aling"center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-### Estudante Segundo Ano do Ensino Médio, Pretendendo cursar Engenharia De Software 
+### 
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
